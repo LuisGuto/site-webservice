@@ -1,0 +1,21 @@
+[
+{
+  "id": "0",
+	"cidadesOuBairro": "Encantado",
+	"nivelDoRio": "10 metros",
+	"cep": "95960-000"
+},
+{
+  "id": "1",
+	"cidadesOuBairro": "Roca-Sales",
+	"nivelDoRio": "8 metros",
+	"cep": "97987-000"
+},
+{
+  "id": "2",
+	"cidadesOuBairro": "Bairro Palmas",
+	"nivelDoRio": "5 metros",
+	"cep": "12345-000"
+}
+
+]
